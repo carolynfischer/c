@@ -1,0 +1,10 @@
+char *p_message;
+p_message = "Teach yourself C in one hour a day";
+
+-------------------------------------------------
+struct msg {
+	char *p1;
+	char *p2;
+} myptrs;
+myptrs.p1 = "Teach yourself C in one hour a day";
+myptrs.p2 = "By Sams";

@@ -1,0 +1,4 @@
+1)char letter = '$';
+2)char array[] = "Pointers are fun!";
+3)char *array = "Pointers are fun!";
+

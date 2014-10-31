@@ -1,0 +1,10 @@
+unsigned int age;
+unsigned int frieds;
+float radius;
+long annual_salary;
+float cost;
+const int max_grade=100; or #define MAX_GRADE 100
+char initial='c';
+float temperature;
+long net_worth;
+double star_distance;

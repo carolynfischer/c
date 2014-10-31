@@ -1,0 +1,2 @@
+char *p_message;
+p_message = "Teach yourself C in one hour a day";

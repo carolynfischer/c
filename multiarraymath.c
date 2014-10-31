@@ -1,0 +1,13 @@
+/* Demonstrates pointer aritmethic with pointers to multidimensional arrays */
+#include <stdio.h>
+
+int multi[2][4];
+
+int main (void)
+{
+	printf("\nThe value of (multi) = %u", multi);
+	printf("\nThe value of (multi + 1) = %u", (multi + 1));
+	printf("\nThe value of multi[1] = %u\n", multi[1]);
+
+	return 0;
+}

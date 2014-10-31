@@ -1,0 +1,13 @@
+1)char *char_ptr;
+2-4)int *p_cost;
+cost = 100;
+p_cost = &cost;
+direct access printf("cost is %d and value of address is %p", cost, &cost);
+indirect access printf("cost is %d and value of addres is %p", *p_cost, p_cost);
+5)float radius;
+float *p_radius;
+p_radius = &radius;
+or float *p_radius = &radius;
+6)data[2] = 100;
+*(data+2) = 100;
+
